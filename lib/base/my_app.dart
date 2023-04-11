@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../constData.dart';
+import '../const_data.dart';
 import '../routers.dart';
 
 class MyApp extends StatelessWidget {

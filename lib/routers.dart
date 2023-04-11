@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:moudule_flutter/constData.dart';
+import 'package:moudule_flutter/const_data.dart';
 
 var onGenerateRoute = (RouteSettings settings) {
   final String? name = settings.name;

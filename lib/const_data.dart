@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:moudule_flutter/MyHomePage.dart';
-import 'package:moudule_flutter/VideoPage.dart';
+import 'package:moudule_flutter/my_home_page.dart';
+import 'package:moudule_flutter/video_page.dart';
 
 const String appTitle = "Flutter Demo";
 const String videoPath = "https://video.yinyuetai.com/e3252b4ca21446e69d11dc9b6d33d00f.mp4";

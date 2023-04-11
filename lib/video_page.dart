@@ -1,7 +1,7 @@
 import 'package:fijkplayer/fijkplayer.dart';
 import 'package:flutter/material.dart';
 
-import 'constData.dart';
+import 'const_data.dart';
 
 class VideoPage extends StatefulWidget {
   final String title;
